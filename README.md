@@ -3,6 +3,8 @@
 A sleek, draggable, dark-themed expense tracking extension built to help you manage your budget directly from your browser.
 Stay organized, track spending in real-time, and take control of your finances — all with a minimal, modern UI.
 
+📸 Screenshots
+!(screenshot)[Screenshot.jpeg]
 
 🚀 Features
 ✅ Expense Tracking – Quickly log and monitor expenses
@@ -17,15 +19,12 @@ Stay organized, track spending in real-time, and take control of your finances �
 
 ⚡ Lightweight & Fast – Built for performance
 
-🛠️ Tech Stack & Tools
-
-Tech / Tool	Description
-HTML5	Structure & markup
-CSS3	Styling and layout
-JavaScript	Core logic & DOM manipulation
-Chrome Extension APIs	Integration with browser
-LocalStorage	Persistent data handling
-Built with simplicity, speed, and usability in mind.
+Tech / Tool | Description
+ HTML5 | Structure & markup
+ CSS3 | Styling and layout
+ JavaScript | Core logic & DOM manipulation
+ Chrome Extension APIs | Integration with browser
+ LocalStorage | Persistent data handling
 
 📦 Installation
 Clone or Download ZIP
