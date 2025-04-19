@@ -2,7 +2,7 @@
 
 An elegant, minimal, and **draggable browser widget** to help you **track expenses**, **stay on budget**, and keep your financial goals on track — all within your browser tab!
 
-![Expense Tracker](./assets/cover.png)
+![Expense Tracker](Screenshot.jpeg)
 
 ---
 
@@ -78,8 +78,9 @@ This project is open-sourced under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Kishan Sharma**  
-[GitHub Profile »](https://github.com/Kishan-shr)
+## Author
+Developed with ❤️ by KISHAN SHARMA
+linkedin : https://www.linkedin.com/in/kishanshr/
 
 ---
 
