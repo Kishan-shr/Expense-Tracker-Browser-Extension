@@ -47,7 +47,7 @@ That’s it — the tracker will now be available in your extension tray!
 
 | Light/Dark UI | Draggable Widget |
 |---------------|------------------|
-| ![UI](./assets/screenshot1.png) | ![Drag](./assets/screenshot2.png) |
+| ![UI](expense_tracker.gif) 
 
 ---
 
