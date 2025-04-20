@@ -29,13 +29,18 @@ An elegant, minimal, and **draggable browser widget** to help you **track expens
 
 ---
 
-## 📦 Installation
+## ⚙️ Installation & Setup
 
-1. Clone or [Download this repository](https://github.com/Kishan-shr/Expense-Tracker-Browser-Extension/archive/refs/heads/main.zip)
-2. Go to `chrome://extensions/` in your Chrome browser
-3. Enable **Developer Mode** (top right)
-4. Click **Load unpacked**
-5. Select the `Expense-Tracker-Browser-Extension` folder
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Kishan-shr/Expense-Tracker-Browser-Extension
+cd weather-extension
+```
+2. [Download this repository](https://github.com/Kishan-shr/Expense-Tracker-Browser-Extension/archive/refs/heads/main.zip)
+3. Go to `chrome://extensions/` in your Chrome browser
+4. Enable **Developer Mode** (top right)
+5. Click **Load unpacked**
+6. Select the `Expense-Tracker-Browser-Extension` folder
 
 That’s it — the tracker will now be available in your extension tray!
 
